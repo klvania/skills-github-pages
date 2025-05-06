@@ -1,0 +1,9 @@
+l_english:
+ KLV:0 "Kurvania"
+ KLV_DEF:0 "Kurvania"
+ KLV_ADJ:0 "Kurvanian"
+
+ KLV_fascism_party:0 "National Unity Front"
+ KLV_communism_party:0 "Workers' Revolutionary League"
+ KLV_democratic_party:0 "Kurvania Liberal Party"
+ KLV_neutrality_party:0 "Kurvanian Neutral Alliance"

@@ -1,0 +1,10 @@
+owner = KLV
+controller = KLV
+add_core_of = KLV
+manpower = 200000
+infrastructure = 4
+industrial_complex = 2
+arms_factory = 3
+air_base = 1
+radar_station = 1
+

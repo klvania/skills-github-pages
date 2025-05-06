@@ -1,0 +1,22 @@
+capital = 801
+oob = "KLV_1936"
+set_research_slots = 3
+set_politics = {
+	ideology = fascism
+	ruling_party = fascism
+	last_election = "1935.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+add_ideas = {
+	kurvania_leader
+}
+set_country_flag = KLV_founded
+
+# 政党支持率
+add_popularity = {
+	fascism = 70
+	democratic = 10
+	communism = 5
+	neutrality = 15
+}
